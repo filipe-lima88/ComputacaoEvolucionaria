@@ -16,4 +16,4 @@ Obs: Nesse problema, é preciso primeiro definir como representar um cromossomo 
 
 3) Usando alguma biblioteca ou implementando diretamente em alguma linguagem de programação, desenvolva uma solução para minimizar a função de Rosenbrock (em anexo). Faça testes pra identificar um conjunto de parâmetros adequado. Plote o gráfico de evolução da solução.
 
-4) Otimização dos parâmetros através de redes neurais
+4) Otimização dos parâmetros através de redes neurais, utilizando a biblioteca DEAP.
