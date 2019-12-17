@@ -1,2 +1,2 @@
-# Machine Learning
-Exemplos de utilização de Machine Learning.
+# Computação Evolucionária  
+Exemplos de utilização de algoritmo genético, programação genética e PSO
